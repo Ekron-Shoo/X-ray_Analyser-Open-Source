@@ -1,4 +1,4 @@
-# X-ray_Analyser-Open-Source
+# FREE FOR INDIVIAL USAGE
 Open Source for X-ray analysis
 </br>
 Download zip, unzip it
@@ -12,3 +12,5 @@ Run session 69b.py
 In the terminal you will get a localhost link-> 127.0.0.1:5000 or similar, click that
 </br> 
 Upload and check for disease.
+
+
